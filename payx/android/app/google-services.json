@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "928149437200",
+    "project_id": "payx-bdab8",
+    "storage_bucket": "payx-bdab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928149437200:android:5d08847e8565d18623c395",
+        "android_client_info": {
+          "package_name": "com.example.payx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928149437200-vmh2pgcida9kddkaa1b6kel1u38gq82h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPT6Hs-sWMYbT0JSESl3BNHXpsSur-zgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928149437200-244ec9l1033ag2s2ivhcrba7sndafqh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928149437200-3a382vqdd7oo0c2j52g0m1r3l25bg72i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.payx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
